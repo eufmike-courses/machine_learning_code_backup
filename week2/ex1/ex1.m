@@ -1,3 +1,5 @@
+
+addpath /Users/major_minor1982/Documents/MATLAB/machine_learning_code_backup/week2/ex1; 
 %% Machine Learning Online Class - Exercise 1: Linear Regression
 
 %  Instructions
