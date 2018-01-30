@@ -1,0 +1,422 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"apl",
+				"Alpha"
+			],
+			[
+				"struc",
+				"struct2cell"
+			],
+			[
+				"li",
+				"logical"
+			],
+			[
+				"file",
+				"filenamelist"
+			],
+			[
+				"filename",
+				"filenamelist"
+			],
+			[
+				"out",
+				"outputfiles"
+			],
+			[
+				"fil",
+				"filesname_ex"
+			],
+			[
+				"in",
+				"inputfiles_noext"
+			],
+			[
+				"Iv",
+				"Ivnoz"
+			],
+			[
+				"bw",
+				"bwI3Dsmth"
+			],
+			[
+				"bwI",
+				"bwI3Dsmth"
+			],
+			[
+				"inpi",
+				"inputfilename"
+			],
+			[
+				"ra",
+				"raw_images"
+			],
+			[
+				"imwr",
+				"imwrite"
+			],
+			[
+				"exte",
+				"extendedproperty"
+			],
+			[
+				"end",
+				"end"
+			],
+			[
+				"fp",
+				"fprintf"
+			],
+			[
+				"bwI3",
+				"bwI3DDim"
+			],
+			[
+				"bwarea",
+				"bwareafilt\tImages method"
+			],
+			[
+				"vara",
+				"varargout\tMatlab method"
+			],
+			[
+				"start",
+				"startup\tMatlab method"
+			],
+			[
+				"full",
+				"fullfile\tMatlab method"
+			],
+			[
+				"ful",
+				"fullfile\tMatlab method"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"last_filter": "key",
+		"selected_items":
+		[
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"packagere",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"package re",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"openre",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"install t",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color",
+				"Colorsublime: Browse Themes Online"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 438.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/michaelshih/Documents/code/education/coursera/machine_learning_code_backup"
+	],
+	"file_history":
+	[
+		"/Users/michaelshih/Documents/code/education/coursera/machine_learning_code_backup/ML_sublimetext",
+		"/Users/michaelshih/Documents/code/education/MATLAB/3d_rendering_test/code/D_d.mat",
+		"/Users/michaelshih/Documents/code/education/MATLAB/3d_rendering_test/code/viewer3d_version12a/viewer3d.m",
+		"/Users/michaelshih/Documents/code/machine_learning_code_backup/week3/ex2/plotDecisionBoundary.m",
+		"/Users/michaelshih/Documents/code/machine_learning_code_backup/week3/ex2/ex2.m",
+		"/Users/michaelshih/Documents/code/machine_learning_code_backup/week3/ex2/ex2_reg.m",
+		"/Users/michaelshih/Documents/code/machine_learning_code_backup/week3/ex2/mapFeature.m",
+		"/Users/michaelshih/Documents/code/machine_learning_code_backup/week3/ex2/costFunction.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/filerename_dummy.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/merge_color_seq.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/equhisto.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/fileselection.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/test_file_count.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/image_processing_testing_par_filter8.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/filerename.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/savefilename.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/filedeleter.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/test_07.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/brainseg.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/movetestreal.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/filenamelist.xlsx",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/test_file_count",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/test.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/bw2bwary.m",
+		"/Users/michaelshih/Documents/wucci_data/Mast Lab/code/matlab_code/image_processing_05.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/name.csv",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/name1.csv",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/image_processing_testing_par.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/outlineoverlap3D_test.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/raw_images/1979a-0008-OME TIFF-Export-07_s4.ome.tiff",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/extendedproperty3D.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/test_09.m",
+		"/Users/michaelshih/Documents/wucci_data/Mast Lab/code/matlab_code/extendedproperty.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/CropRotate.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/imSmooth.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/outlineoverlap3D.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/smthbwary.m",
+		"/Users/michaelshih/Library/Application Support/Sublime Text 3/Packages/Color Scheme - Default/Monokai.tmTheme",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/smth3dobj.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/test_09_find_midline.matlab",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/test_08.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/brainseg_debug.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/image_processing.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/brainseg_test.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/bf2arrayxyc.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/image_processing_testing.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/autoscale8bit.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/bw3dsmth.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/edgemerge.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/test_06.m",
+		"/Users/michaelshih/Documents/MATLAB/matlab_toolbox/bfmatlab/bfopen.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/test_02.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/test_03.m",
+		"/Users/michaelshih/Desktop/OME.xml",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/test_04_metadata.m",
+		"/Users/michaelshih/Documents/MATLAB/matlab_toolbox/bfmatlab/bfCheckJavaMemory.m",
+		"/Users/michaelshih/Documents/MATLAB/matlab_toolbox/bfmatlab/NEWS.rst",
+		"/Users/michaelshih/Documents/MATLAB/matlab_toolbox/bfmatlab/bioformats_package.jar",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/test04_metadata.m",
+		"/Users/michaelshih/Documents/MATLAB/GUICodeTest/simple_gui.m",
+		"/Users/michaelshih/Documents/MATLAB/GUICodeTest/test_001.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/rmext.m",
+		"/Users/michaelshih/Documents/wucci_data/batch_test/code/image_processing_test.m",
+		"/Users/michaelshih/Documents/wucci_data/Synovium Project/synovium_project/code/opencsv.m",
+		"/Users/michaelshih/Documents/wucci_data/Synovium Project/synovium_project/code/tiff_resize_rotate.m",
+		"/Users/michaelshih/Documents/wucci_data/Synovium Project/synovium_project/code/rmhidden.m",
+		"/Users/michaelshih/Documents/wucci_data/Synovium Project/synovium_project/code/test_parfpor.m",
+		"/Volumes/wuccistaff/Mike/Mast_Lab/test_bioformat.m",
+		"/Users/michaelshih/Documents/code/mobile_bill/txt_export/ATT_418022305918_20170323.txt",
+		"/Volumes/wuccistaff/Mike/Mast_Lab/output_roi/0001-0914.roi",
+		"/Volumes/wuccistaff/Mike/Mast_Lab/output_metadata/1979a-0002.csv",
+		"/private/etc/postfix/main.cf",
+		"/Users/michaelshih/Documents/wucci_data/Chheda Lab/tangoSampleProcessingChains/channel.bson",
+		"/Users/michaelshih/Documents/wucci_data/Chheda Lab/Supplementary Code/Processing Chains/channel.metadata.json",
+		"/Users/michaelshih/Documents/wucci_data/Chheda Lab/Supplementary Code/Processing Chains/channel.bson",
+		"/Users/michaelshih/Dropbox/WUCCI/Unity_Projects_DB/test_VR_astronomy/Assets/skull.raw",
+		"/Users/michaelshih/Dropbox/WUCCI/Unity_Projects_DB/unity-ray-marching-volumetric-textures/Assets/Shaders/Composite.shader",
+		"/Users/michaelshih/Dropbox/WUCCI/Unity_Projects_DB/unity-ray-marching-volumetric-textures/Assets/Scripts/RayMarching.cs",
+		"/Users/michaelshih/Dropbox/WUCCI/Unity_Projects_DB/VR_sample/convert/C1_rescale_8bit/img00-57.tif",
+		"/Users/michaelshih/Desktop/對話記錄/major_minor19822490098276/記錄/yellow_ya2763233836.xml",
+		"/Users/michaelshih/Desktop/對話記錄/我的交談記錄/yellow_ya@hotmail.com.ple",
+		"/Users/michaelshih/Downloads/cs6queries/[02] Chapter 2 - C# Language Basics/[02] Syntax Basics/[03] Semicolons and Comments.linq",
+		"/Users/michaelshih/Downloads/cs6queries/[02] Chapter 2 - C# Language Basics/[02] Syntax Basics/[01] The @ prefix.linq",
+		"/Users/michaelshih/Downloads/cs6queries/[02] Chapter 2 - C# Language Basics/[02] Syntax Basics/[02] Contextual Keywords.linq",
+		"/Users/michaelshih/Downloads/cs6queries/[02] Chapter 2 - C# Language Basics/[01] A First C# Program (and notes on LINQPad)/[06] First Program Refactored.linq",
+		"/Users/michaelshih/Downloads/cs6queries/[02] Chapter 2 - C# Language Basics/[01] A First C# Program (and notes on LINQPad)/[05] Expressions in LINQPad.linq",
+		"/Users/michaelshih/Downloads/cs6queries/[02] Chapter 2 - C# Language Basics/[01] A First C# Program (and notes on LINQPad)/[04] Note on Selective Execution in LINQPad.linq",
+		"/Users/michaelshih/Downloads/cs6queries/[02] Chapter 2 - C# Language Basics/[01] A First C# Program (and notes on LINQPad)/[03] Statement Mode with Dump.linq",
+		"/Users/michaelshih/Downloads/cs6queries/[02] Chapter 2 - C# Language Basics/[01] A First C# Program (and notes on LINQPad)/[02] Statement Mode.linq",
+		"/Users/michaelshih/Downloads/cs6queries/[02] Chapter 2 - C# Language Basics/[01] A First C# Program (and notes on LINQPad)/[01] A First C# Program.linq",
+		"/Users/michaelshih/Dropbox/WUCCI/Alina/Alina/102616_test_002.imagine",
+		"/Users/michaelshih/Documents/MATLAB/test.mat",
+		"/Users/michaelshih/Documents/Alina/102616_test_002.imagine",
+		"/Volumes/public/Alina/102616_test_001.imagine"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 126.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "ML_sublimetext.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
