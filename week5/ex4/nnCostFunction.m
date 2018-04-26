@@ -62,44 +62,23 @@ Theta2_grad = zeros(size(Theta2));
 %               and Theta2_grad from Part 2.
 %
 
-% forward propogation
-
-a1 = [ones(m, 1) X];
-z2 = (a1 * Theta1');
-g2 = sigmoid(z2);
-a2 = [ones(size(g2, 1), 1), g2]; 
-h_Theta = sigmoid(a2 * Theta2');
-
-eye_matrix = eye(num_labels);
-y_matrix = eye_matrix(y,:); % creat a binary matrix for labels
-
-J = (-1/m)*sum( sum(y_matrix.*log(h_Theta)) + sum((1-y_matrix).*log(1-h_Theta)) ); 
-
-% regularization
-Cost_regulation = (lambda/(2 * m)) * ...
-                                     ( ...
-                                        sum(sum(Theta1(:, 2:end).^2)) + ... 
-                                        sum(sum(Theta2(:, 2:end).^2)) ...
-                                     );
-
-J = J + Cost_regulation; 
-
-% back propogation
-
-delta3 = h_Theta - y_matrix; % delta3 = 5000*10
-delta2 = (delta3*Theta2).*[ones(size(z2,1),1) sigmoidGradient(z2)]; 
 
 
-D1 = delta2(:,2:end)' * a1;
-D2 = delta3' * a2; %h_theta = 5000*10
 
-Theta1_grad = Theta1_grad + (1/m) * D1;
-Theta2_grad = Theta2_grad + (1/m) * D2;
 
-% regularization
 
-Theta1_grad(:, 2:end) = Theta1_grad(:, 2:end) + (lambda/m) * Theta1(:, 2:end); 
-Theta2_grad(:, 2:end) = Theta2_grad(:, 2:end) + (lambda/m) * Theta2(:, 2:end); 
+
+
+
+
+
+
+
+
+
+
+
+
 
 % -------------------------------------------------------------
 

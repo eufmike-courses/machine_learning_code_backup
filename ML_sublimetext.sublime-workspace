@@ -192,10 +192,19 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/michaelshih/Documents/code/education/coursera/machine_learning_code_backup"
+		"/Users/michaelshih/Documents/code/education/coursera/machine_learning_code_backup",
+		"/Users/michaelshih/Documents/code/education/coursera/machine_learning_code_backup/week3",
+		"/Users/michaelshih/Documents/code/education/coursera/machine_learning_code_backup/week3/ex2",
+		"/Users/michaelshih/Documents/code/education/coursera/machine_learning_code_backup/week3/ex2/lib"
 	],
 	"file_history":
 	[
+		"/Users/michaelshih/Documents/code/education/coursera/machine_learning_code_backup/week3/ex2/test.m",
+		"/Users/michaelshih/Documents/code/education/coursera/machine_learning_code_backup/week3/ex2/mapFeature.m",
+		"/Users/michaelshih/Documents/code/education/coursera/machine_learning_code_backup/week3/ex2/costFunctionReg.m",
+		"/Users/michaelshih/Documents/code/education/coursera/machine_learning_code_backup/week3/ex2/plotDecisionBoundary.m",
+		"/Users/michaelshih/Documents/code/education/coursera/machine_learning_code_backup/week3/ex2/ex2.m",
+		"/Users/michaelshih/Documents/code/education/coursera/machine_learning_code_backup/week3/ex2/ex2_reg.m",
 		"/Users/michaelshih/Documents/code/education/coursera/machine_learning_code_backup/ML_sublimetext",
 		"/Users/michaelshih/Documents/code/education/MATLAB/3d_rendering_test/code/D_d.mat",
 		"/Users/michaelshih/Documents/code/education/MATLAB/3d_rendering_test/code/viewer3d_version12a/viewer3d.m",
@@ -327,6 +336,11 @@
 			"sheets":
 			[
 			]
+		},
+		{
+			"sheets":
+			[
+			]
 		}
 	],
 	"incremental_find":
@@ -346,6 +360,12 @@
 				0,
 				1,
 				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
 			]
 		],
 		"cols":
@@ -356,6 +376,7 @@
 		"rows":
 		[
 			0.0,
+			0.759371132426,
 			1.0
 		]
 	},
