@@ -17,7 +17,8 @@
 %  or any other files other than those mentioned above.
 %
 
-cd '/Users/michaelshih/Documents/code/machine_learning_code_backup/week3/ex2';
+% cd '/Users/michaelshih/Documents/code/machine_learning_code_backup/week3/ex2';
+cd '/Users/major_minor1982/Documents/code/machine_learning_code_backup/week3/ex2'
 
 %% Initialization
 clear ; close all; clc
